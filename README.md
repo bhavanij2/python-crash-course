@@ -1,2 +1,5 @@
 # python-crash-course
-Python Crash Course
+
+This repository includes
+- Coding Concepts presentation
+- Python Crash Course coding material
